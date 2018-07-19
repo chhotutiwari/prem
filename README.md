@@ -4,3 +4,4 @@ git is scm tool.
 git is distributed version controle tool.
 git is fast as compair to other tools.
 it colleberate developer easily.
+is uses c launguages.
